@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+root_audit.key
+hello.txt
